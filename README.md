@@ -1,0 +1,1 @@
+# struct2scan_ignore_sslexpired
